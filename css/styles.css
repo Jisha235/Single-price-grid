@@ -1,0 +1,97 @@
+
+
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  padding: 5%;
+  color: grey;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+ }
+
+body {
+  font-size: 16px;
+  font-family: "Karla", sans-serif;
+  text-align: left;
+  margin: auto;
+  padding-top: 120px;
+  width: 45%;
+  background-color: #ddf3f5;
+}
+
+ h1{
+  color: hsl(179, 62%, 43%);
+  font-size: 23px;
+  padding-bottom: 15px;
+}
+.header{
+  line-height: 1.5;
+  padding: 6% 6% 4% 6%;
+  background-color: #fff;
+
+}
+.header h2 {
+  color: hsl(71, 73%, 54%);
+  font-size: 18px;
+}
+
+.header p{
+  color: hsl(218, 22%, 67%);
+
+}
+h2{
+  font-size: 18px;
+  color: #fff;
+}
+
+p {
+  color: hsl(204, 43%, 93%);
+  font-size: 16px;
+}
+
+.dollar{
+  font-size: 25px;
+}
+span{
+  font-size: 26px;
+  font-weight: 900;
+}
+
+.subscrip {
+  padding: 6%;
+  background-color: hsl(179, 62%, 43%);
+  color: #fff;
+  width: 50%;
+}
+
+.subscrip p{
+  line-height: 2;
+}
+.btn {
+  padding: 5%;
+  background-color: hsl(71, 73%, 54%);
+  color: #fff;
+  margin-top: 5%;
+
+}
+
+.whyus {
+  padding: 6% 12% 6% 6%;
+  background-color: #4cbbb9;
+}
+
+.whyus p{
+  font-size: 14px;
+  padding-right: 10%;
+}
+
+
+@media (max-width:375px) {
+   .col-sm-12 {
+    width: 80%;
+  }
+
+}
